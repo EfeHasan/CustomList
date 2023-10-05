@@ -1,0 +1,42 @@
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.AssemblyInfoInputs.cache
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.AssemblyInfo.cs
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\Liste\Liste\bin\Debug\net7.0\Liste.exe
+C:\Users\Efe\source\repos\Liste\Liste\bin\Debug\net7.0\Liste.deps.json
+C:\Users\Efe\source\repos\Liste\Liste\bin\Debug\net7.0\Liste.runtimeconfig.json
+C:\Users\Efe\source\repos\Liste\Liste\bin\Debug\net7.0\Liste.dll
+C:\Users\Efe\source\repos\Liste\Liste\bin\Debug\net7.0\Liste.pdb
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.dll
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\refint\Liste.dll
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.pdb
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\Liste.genruntimeconfig.cache
+C:\Users\Efe\source\repos\Liste\Liste\obj\Debug\net7.0\ref\Liste.dll
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\bin\Debug\net7.0\Liste.exe
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\bin\Debug\net7.0\Liste.deps.json
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\bin\Debug\net7.0\Liste.runtimeconfig.json
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\bin\Debug\net7.0\Liste.dll
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\bin\Debug\net7.0\Liste.pdb
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.AssemblyInfoInputs.cache
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.AssemblyInfo.cs
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.dll
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\refint\Liste.dll
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.pdb
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\Liste.genruntimeconfig.cache
+C:\Users\Efe\Desktop\Masaüstü Programlama C#\Liste\Liste\obj\Debug\net7.0\ref\Liste.dll
+D:\Onur Konuğum\Liste\Liste\bin\Debug\net7.0\Liste.exe
+D:\Onur Konuğum\Liste\Liste\bin\Debug\net7.0\Liste.deps.json
+D:\Onur Konuğum\Liste\Liste\bin\Debug\net7.0\Liste.runtimeconfig.json
+D:\Onur Konuğum\Liste\Liste\bin\Debug\net7.0\Liste.dll
+D:\Onur Konuğum\Liste\Liste\bin\Debug\net7.0\Liste.pdb
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.AssemblyInfoInputs.cache
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.AssemblyInfo.cs
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.csproj.CoreCompileInputs.cache
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.dll
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\refint\Liste.dll
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.pdb
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\Liste.genruntimeconfig.cache
+D:\Onur Konuğum\Liste\Liste\obj\Debug\net7.0\ref\Liste.dll
