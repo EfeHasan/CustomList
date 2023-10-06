@@ -19,20 +19,13 @@ namespace Liste
             values = new T[4];
         }
 
-        public IEnumerator<T> GetEnumerator()
+        public T this[int index]
         {
-            for (int i = 0; i < count_; i++)
+            get
             {
-                yield return values[i];
+                return values[index];
             }
         }
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return GetEnumerator();
-        }
-
-
 
         public void Add(T value)
         {
@@ -125,22 +118,24 @@ namespace Liste
                 Console.WriteLine(values[i]);
             }
         }
-        public T this[int index]
-        {
-            get
-            {
-                if (index >= 0 && index <= count_)
-                    return values[index];
-                else
-                    throw new IndexOutOfRangeException("Index is out of range");
-            }
 
-        }
 
         public int Count()
         {
             return values.Length;
         }
 
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < count_; i++)
+            {
+                yield return values[i];
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
     }
 }
