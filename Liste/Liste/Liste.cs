@@ -16,7 +16,7 @@ namespace Liste
 
         public Liste()
         {
-            values = new T[4];
+            values = new T[5];
         }
 
         public T this[int index]
